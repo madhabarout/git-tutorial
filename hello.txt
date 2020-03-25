@@ -1,1 +1,1 @@
-Hi I am new to Git
+Hi I am in feature2
